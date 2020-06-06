@@ -1,0 +1,137 @@
+.navbar {
+    background-color: #DCDCDC !important;
+}
+
+.navbar-brand {
+    color: #fba355 !important;
+    font-size: 40px;
+    font-family: Verdana;
+    font-weight: 600;
+}
+
+.fa-truck,
+.fa-thumbs-o-up,
+.fa-headphones {
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: orange !important;
+}
+
+.card1,
+.card2,
+.card3 {
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: 2px 4px 5px gray;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.maincard {
+    margin-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.deals {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.btn-primary {
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    margin: auto;
+}
+
+.contact a .fa {
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.contact .fa:hover {
+    opacity: 0.7;
+}
+
+.contact .fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.contact .fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.contact .fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.contact .fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.contact .fa-whatsapp {
+    background: #00b489;
+    color: white;
+}
+
+.socialmedia .s1 {
+    float: left;
+    text-align: center;
+}
+
+.socialmedia a {
+    text-decoration: none;
+}
+
+.feedback {
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+}
+
+.row Copyright {
+    align-items: center !important;
+}
+
+.container {
+    margin-top: 20px;
+    background-color: #FFFACD !important;
+}
+
+.container-add {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.mission {
+    font-size: medium;
+    color: #bb0000;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    block-size: 300px;
+}
+
+.goal {
+    text-align: center;
+    margin-top: 30px;
+    color: #bb0000;
+}
